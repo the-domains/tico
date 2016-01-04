@@ -1,7 +1,7 @@
 name: Tico
 favicon: null
-layout_spectrum: 0.14626100938767195
-typography_spectrum: 0.5436883601360023
+layout_spectrum: 0
+typography_spectrum: 0.27779
 title: ticowear
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#7590a0'
     - '#7a7a7a'
   brandStrength: 0.25
-  lightness: 0.5299857154022902
-  saturation: 0.6156815933063626
-  rhythmicContrast: 0.4114038930274546
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
