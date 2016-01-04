@@ -2,6 +2,7 @@ name: Tico
 favicon: null
 layout_spectrum: 0.14626100938767195
 typography_spectrum: 0.5436883601360023
+title: ticowear
 cta:
   domain: null
   bucket: null
